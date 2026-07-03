@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Wine Liquid Fill -->
+  <path d="M10 13.5 C11 17.5 13.5 19 16 19 C18.5 19 21 17.5 22 13.5 Z" fill="#722F37" />
+  
+  <!-- Wine Surface Highlight -->
+  <ellipse cx="16" cy="13.5" rx="6" ry="1.5" fill="#D98E96" opacity="0.85" />
+  
+  <!-- Glass Outline -->
+  <path d="M8 8 C8 16 11.5 20 16 20 C20.5 20 24 16 24 8" fill="none" stroke="#D98E96" stroke-width="1.5" stroke-linecap="round" />
+  
+  <!-- Stem -->
+  <line x1="16" y1="20" x2="16" y2="27" stroke="#D98E96" stroke-width="1.5" />
+  
+  <!-- Base -->
+  <path d="M10 27.5 C13 28.5 19 28.5 22 27.5" fill="none" stroke="#D98E96" stroke-width="1.5" stroke-linecap="round" />
+</svg>
